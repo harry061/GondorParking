@@ -41,7 +41,7 @@ http://localhost:8080/gondorparking/pworker/reserveslot
   "laneId": 1,
   "slotId": 1,
   "parkingType": "ELDER",
-  "parkingStartTime": "2019-09-11T08:35:37.956+0000"
+  "parkingStartTime": "2020-06-30T08:35:37.956+0000"
 }
 ```
 * Vacating a parking slot
@@ -55,8 +55,8 @@ http://localhost:8080/gondorparking/pworker/reserveslot
 On exit a parking receipt is returned
 ```JSON 
 {
-  "parkedTime": "2019-09-11T12:20:09.681+0000",
-  "exitTime": "2019-09-11T12:20:18.183+0000"
+  "parkedTime": "2020-06-30T12:20:09.681+0000",
+  "exitTime": "2020-06-30T12:20:18.183+0000"
 }
 ```
 
